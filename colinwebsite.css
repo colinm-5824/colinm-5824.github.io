@@ -1,0 +1,48 @@
+body {
+    background-color: #f88379;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+}
+.navbar {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+.listnav {
+    float: left;
+    background-color: #f1f1f1;
+    
+}
+a {
+    display: block;
+    width: 100px;
+    color: #000000;
+    background-color: #4FC3F7;
+    text-decoration: none;
+    padding: 16px;
+    font-size: 20px;
+}
+.active{
+    cursor: not-allowed;
+}
+a.active {
+    background-color: #20b2aa;
+    color: #ffffff;
+    pointer-events: none;
+}
+a.default {
+    display: contents;
+    text-decoration: none;
+    font-size: 16px;
+    color: #008B8B;
+}
+.chess {
+    width: 384px;
+    height: 216px;
+}
