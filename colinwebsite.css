@@ -17,7 +17,6 @@ p {
 .listnav {
     float: left;
     background-color: #f1f1f1;
-    
 }
 a {
     display: block;
@@ -45,4 +44,10 @@ a.default {
 .chess {
     width: 384px;
     height: 216px;
+}
+audio {
+    margin-left: 20px;
+}
+.layout_fix {
+    margin: initial;
 }
