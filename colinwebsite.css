@@ -48,3 +48,6 @@ a.default {
 audio {
     margin-left: 20px;
 }
+img {
+    align-content: center;
+}
