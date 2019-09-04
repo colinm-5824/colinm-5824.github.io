@@ -49,5 +49,5 @@ audio {
     margin-left: 20px;
 }
 img {
-    align-content: center;
+    float: center;
 }
